@@ -25,7 +25,7 @@ int main()
     printf("The GCD of %d and %d is %d\n",num1,num2,gcd);
 
 
-    int max1,max2,lcm;
+    int lcm;
     lcm = (num1 > num2) ? num1:num2;
     while(1)
     {
