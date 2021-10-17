@@ -1,4 +1,1 @@
-for(j=n/2-i+1;j>=1;j--)
-        { 
-            printf("_");
-        }
+spl_assi2_6.txt

@@ -1,0 +1,3 @@
+Sum : 171.0
+Average : 34.2
+Maximum : 56.00

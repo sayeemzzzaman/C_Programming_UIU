@@ -1,0 +1,23 @@
+
+Name: Almani
+Id: 011083042
+Exam Marks: 76.00 84.00 96.00 
+Name: Afif
+Id: 011083022
+Exam Marks: 65.00 55.00 75.00 
+Name: Ruhan
+Id: 011083032
+Exam Marks: 45.00 83.00 77.00 
+Name: Zara
+Id: 011083015
+Exam Marks: 96.00 82.00 91.00 
+Name: Arisha
+Id: 011083012
+Exam Marks: 73.00 64.00 87.00 
+Student 1: 85.33
+Student 2: 65.00
+Student 3: 68.33
+Student 4: 89.67
+Student 5: 74.67
+Name: Zara
+ID: 011083015

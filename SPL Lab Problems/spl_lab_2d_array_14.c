@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//wrong code
 int main()
 {
     int n1,n2;

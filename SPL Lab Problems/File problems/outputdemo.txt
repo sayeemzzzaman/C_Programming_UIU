@@ -1,0 +1,15 @@
+ Name: Almani
+ Id: 011211088
+Exam Marks: 20.00 10.00 50.00 
+ Name: Afif
+ Id: 011211089
+Exam Marks: 10.00 20.00 30.00 
+ Name: Ruhan
+ Id: 011211090
+Exam Marks: 30.00 50.00 40.00 
+ Name: Zara
+ Id: 011211091
+Exam Marks: 40.00 30.00 20.00 
+ Name: Arisha
+ Id: 011211092
+Exam Marks: 15.00 25.00 35.00 
